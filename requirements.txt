@@ -1,0 +1,5 @@
+python-telegram-bot>=13.7,<14.0
+python-dotenv>=0.19.1,<1.0
+ffmpeg-python>=0.2.0,<1.0.0
+youtube-dl
+ffmpeg-progress-yield>=0.1.2,<1.0.0
